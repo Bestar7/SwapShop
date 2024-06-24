@@ -1,0 +1,28 @@
+@port = 4000
+@url = http://localhost:{{port}}/api/articles
+
+### GET ONE
+GET {{url}}/8
+
+### GET ALL
+GET {{url}}
+
+### GET ALL
+GET {{url}}?tags=chaise
+
+#_____CREATE
+### Create One
+POST {{url}}
+Content-Type: application/json
+
+{
+    "id": 1,
+    "name": "name",
+    "description": "description",
+    "condition": "condition",
+    "info": "info",
+    "category": "category",
+    "tags": ["tags"],
+    "price": 42,
+    "quantity": 20
+}

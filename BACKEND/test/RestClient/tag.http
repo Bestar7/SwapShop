@@ -1,0 +1,14 @@
+@port = 4000
+@url = http://localhost:{{port}}/api/tags
+
+### CREATE ONE
+POST {{url}}
+Content-Type: application/json
+
+{
+  "tag": "tesst"
+}
+
+### GET ALL
+GET {{url}}
+

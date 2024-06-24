@@ -1,0 +1,3 @@
+// TODO is Images routes, controller, ... really needed ?
+// TODO use a UnitOfWork https://github.com/LuanMaik/nestjs-unit-of-work
+// TODO check https://docs.nestjs.com/techniques

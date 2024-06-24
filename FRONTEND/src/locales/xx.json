@@ -1,0 +1,107 @@
+{
+  "LANG" : "XX",
+  "HOME" : {
+    "goToCatalog": "xx"
+  },
+  "NAVBAR": {
+    "RegisterNewUser": "xx"
+  },
+  "CATALOG" : {
+    "listArticles": "xx",
+    "noItem": "xx"
+  },
+  "CHECKOUT": {
+    "title": "xx",
+    "recipient":"xx",
+    "qty": "xx",
+    "weight": "xx",
+    "dimension": "xx",
+    "subtotal": "xx",
+    "totalPrice": "xx",
+    "confirm": "xx"
+  },
+  "USER_VIEW" : {
+    "dashboard": "xx",
+    "firstName": "xx",
+    "lastName": "xx",
+    "email": "xx",
+    "phone": "xx",
+    "address": "xx",
+    "wallet": "xx"
+  },
+  "LOGIN": {
+    "login": "Xx"
+  },
+  "REGISTER": {
+    "register": "Xx"
+  },
+  "SUBMIT_ARTICLE": {
+    "submitItem": "Xx"
+  },
+  "utils": {
+    "save":"xx",
+    "cancel":"xx",
+    "confirm":"xx",
+    "login":"xx",
+    "logout":"xx",
+    "register":"xx",
+    "show":"xx",
+    "hide":"xx"
+  },
+  "component" : {
+    "ARTICLE":{
+      "picture": "xx",
+      "category": "xx",
+      "name": "xx",
+      "weight":"xx",
+      "quantity": "xx",
+      "condition":"xx",
+      "dimension": "xx",
+      "tags":"xx",
+      "description":"xx",
+      "suggestedPricePerArticle": "xx",
+      "optional_f": "xx",
+      "optional_m": "xx"
+    },
+    "ARTICLE_INFO_PREVIEW" : {
+      "stock":"xx"
+    },
+    "ARTICLE_FULL_VIEW" : {
+      "qty": "xx",
+      "category": "xx",
+      "description": "xx",
+      "condition": "xx",
+      "tags": "xx",
+      "update": "xx"
+    },
+    "SUBMIT_ARTICLE" : {
+      "submit": "xx"
+    },
+    "FILTER_TAG": {
+      "filterByTag": "xx"
+    },
+    "FORM_ARTICLE" : {
+      "contributor": "xx"
+    },
+    "LOGIN": {
+      "email":"xx",
+      "password":"xx",
+      "cancel":"xx",
+      "login":"xx"
+    },
+    "NAVBAR" : {
+      "swapShops": "xx"
+    },
+    "REGISTER" : {
+      "firstName": "xx",
+      "lastName": "xx",
+      "email": "xx",
+      "phone": "xx",
+      "password": "xx",
+      "address": "xx",
+      "wallet": "xx",
+      "submit": "xx",
+      "cancel": "xx"
+    }
+  }
+}

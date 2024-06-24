@@ -1,0 +1,176 @@
+1,Bois,Massif résineu,2,kg
+2,Bois,Massif feuillu,3,kg
+3,Bois,Massif exotique,5,kg
+4,Bois,Contreplaqué/multiplex,2,kg
+5,Bois,Aggloméré,1,kg
+6,Bois,OSB,1,kg
+7,Bois,Médium (MDF),1,kg
+8,Bois,Balsa (toutes formes),70,kg
+9,Bois,Bois maquette/modèlisme,50,kg
+10,Bois,Autre,1,kg
+11,Métaux,Aluminium,9,kg
+12,Métaux,Laiton,13,kg
+13,Métaux,Plomb,4,kg
+14,Métaux,Cuivre,8,kg
+15,Métaux,Inox,5,kg
+16,Métaux,Ondulé,1,kg
+17,Métaux,Grillage,4,kg
+18,Métaux,ProfiléL/T/O/U/acier/ferreux,3,kg
+19,Métaux,ProfiléL/T/O/U/tout métaux,5,kg
+20,Métaux,À béton,3,kg
+21,Métaux,Fil,15,kg
+22,Métaux,Cable,18,kg
+23,Métaux,Acier Galvanisé,4,kg
+24,Métaux,Autre,3,kg
+25,Papier,De soie,15,kg
+26,Papier,Papier machine,4,kg
+27,Papier,Photographie,29,kg
+28,Papier,Bristol,10,kg
+29,Papier,Dessin,10,Kg
+30,Papier,Kraft,7,kg
+31,Papier,Calque,18,kg
+32,Papier,Couleur,5,kg
+33,Papier,Carnet,5,kg
+34,Papier,Crépon,2,kg
+35,Papier,Autre,1,kg
+36,Carton,Gris/blanc,2,kg
+37,Carton,Ondulé,7,kg
+38,Carton,Tube en carton,4,kg
+39,Carton,Mousse,22,kg
+40,Carton,Autre,2,kg
+41,Textile,Tissus,1,m
+42,Textile,Tissus noble,2,m
+43,Textile,Feutre,5,kg
+44,Textile,Toile de peintre,4,kg
+45,Textile,Cuir,10,kg
+46,Textile,Moquette,2,kg
+47,Textile,Caoutchouc,3,kg
+48,Textile,Autre,3,kg
+49,Mercerie,Fermeture éclair,1,pc
+50,Mercerie,Épingle,1,pc
+51,Mercerie,Aiguille,1,pc
+52,Mercerie,Bouton,1,pc
+53,Mercerie,Perle,1,pc
+54,Mercerie,Fil,3,pc
+55,Mercerie,Laine,2,pc
+56,Mercerie,Ficelle,4,pc
+57,Mercerie,Ruban,3,pc
+58,Mercerie,Corde,6,pc
+59,Mercerie,Autre,1,pc
+60,Minéraux,Chaux,1,kg
+61,Minéraux,Plâtre,1,kg
+62,Minéraux,Béton,1,kg
+63,Minéraux,Béton cellulaire,1,Kg
+64,Minéraux,Sable,1,kg
+65,Minéraux,Pierre,1,kg
+66,Minéraux,Autre,1,kg
+67,Céramique,Carreaux,1,kg
+68,Céramique,Argile,1,kg
+69,Céramique,Grès,1,kg
+70,Céramique,Porcelaine,1,kg
+71,Céramique,Émail,33,kg
+72,Céramique,Autre,1,kg
+73,Verre,Plaque,4,kg
+74,Verre,Mirroir,4,kg
+75,Verre,Fenêtre,4,kg
+76,Verre,Soufflé,5,kg
+77,Verre,Autre,3,kg
+78,Plastique,Plexiglass,6,kg
+79,Plastique,PVC,8,kg
+80,Plastique,Polystyrène/Frigolite,4,kg
+81,Plastique,Mousse,3,kg
+82,Plastique,Bache,24,kg
+83,Plastique,Forex,5,kg
+84,Plastique,Dibond,12,kg
+85,Plastique,Autre,6,kg
+86,Peinture,Aquarelle,1,pc
+87,Peinture,Gouache,4,kg
+88,Peinture,Acrylique,7,kg
+89,Peinture,Extérieur,8,kg
+90,Peinture,Vernis,6,kg
+91,Peinture,Bombe,3,pc
+92,Peinture,Pigments,40,kg
+93,Peinture,Chassis de peinture,6,pc
+94,Peinture,Cadre,4,pc
+95,Peinture,Pinceaux,2,pc
+96,Peinture,Rouleaux,3,pc
+97,Peinture,Autre,4,kg
+98,Colle,À bois/blanche/Acetate Polyvinile/Vinylique/,13,kg
+99,Colle,Super Glue,1380,kg
+100,Colle,Universelle gel,92,kg
+101,Colle,Papier peint,14,kg
+102,Colle,Néoprène,13,kg
+103,Colle,Baton,1,pc
+104,Colle,Pistolet à colle,4,pc
+105,Colle,Pâte à fixe,3,pc
+106,Colle,Autre,8,pc
+107,Entretien et solvants,Alcool,1,kg
+108,Entretien et solvants,Vinaigre,1,kg
+109,Entretien et solvants,Thinner/White spirit,2,kg
+110,Entretien et solvants,Huile de lin,2,kg
+111,Entretien et solvants,Cire,17,kg
+112,Entretien et solvants,Autre,1,kg
+113,Ruban adhésif,De peintre,3,pc
+114,Ruban adhésif,Transparent,2,pc
+115,Ruban adhésif,Double face,3,pc
+116,Ruban adhésif,Kraft,5,pc
+117,Ruban adhésif,Tissu,4,pc
+118,Ruban adhésif,Tissu-plastifié,4,pc
+119,Ruban adhésif,Autre,1,pc
+120,Bureautique,Classeur,2,pc
+121,Bureautique,Agrafeuse,6,pc
+122,Bureautique,Punaise,3,pc
+123,Bureautique,Perforatice,6,pc
+124,Bureautique,Elastique,4,kg
+125,Bureautique,Chemise plastique,1,kg
+126,Bureautique,Autre,1,pc
+127,Dessin,Crayon,1,pc
+128,Dessin,Porte-Mine,3,pc
+129,Dessin,Pastel,1,pc
+130,Dessin,Stylo / bic,1,pc
+131,Dessin,Craie,1,pc
+132,Dessin,Fusain,1,pc
+133,Dessin,Gomme,1,pc
+134,Dessin,Fixatif,3,pc
+135,Dessin,Taille-Crayon,2,pc
+136,Dessin,Encre,30,kg
+137,Dessin,Autre,2,pc
+138,Marqueur,Alcool,3,pc
+139,Marqueur,Dessin scientifique,2,pc
+140,Marqueur,Couleur,1,pc
+141,Marqueur,Tableau blanc,1,pc
+142,Marqueur,Permanent/indélébile,1,pc
+143,Marqueur,Surligneur,1,pc
+144,Marqueur,Posca,2,pc
+145,Marqueur,Autre,2,pc
+146,Mesure & Tracé,Régle,2,pc
+147,Mesure & Tracé,Équerre,2,pc
+148,Mesure & Tracé,Rapporteur,1,pc
+149,Mesure & Tracé,Pistolets,3,pc
+150,Mesure & Tracé,Mètre,5,pc
+151,Mesure & Tracé,Compas,10,pc
+152,Mesure & Tracé,Autre,3,pc
+153,Découpe,Cutter,2,pc
+154,Découpe,Tapis de découpe,2,kg
+155,Découpe,Ciseau,2,pc
+156,Découpe,Pince coupante,2,pc
+157,Découpe,Rogneuse,9,pc
+158,Découpe,Autre,2,pc
+159,Quincaillerie,Vis,1,pc
+160,Quincaillerie,Chevilles,1,pc
+161,Quincaillerie,Boulons,1,pc
+162,Quincaillerie,Clou,1,pc
+163,Quincaillerie,roulettes,1,pc
+164,Quincaillerie,chaînes,1,pc
+165,Quincaillerie,Autre,1,pc
+166,Accessoires Maquette,Miniature,2,pc
+167,Accessoires Maquette,Arbre,2,pc
+168,Accessoires Maquette,Buisson,2,pc
+169,Accessoires Maquette,Plasticine,3,pc
+170,Accessoires Maquette,Papier matière,4,kg
+171,Accessoires Maquette,Autre,1,pc
+172,Culture,Livre,1,pc
+173,Culture,"CD, DVD",1,pc
+174,Culture,Photo,1,pc
+175,Culture,Autre,1,pc
+176,Autres et pièces uniques,Autre,1,pc

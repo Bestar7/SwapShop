@@ -1,0 +1,19 @@
+@port = 4000
+@url = http://localhost:{{port}}/api/swapShops
+
+#### GET ONE
+GET {{url}}/1
+
+### GET ALL
+GET {{url}}
+
+#_____CREATE
+### Create One
+POST {{url}}
+Content-Type: application/json
+
+{
+    "federation": "Fédération des récupérathèques",
+    "name": "La Bonocaz",
+    "description": "La Bonocaz c est avant tout un lieu, central sur le campus de Louvain-la-Neuve, situé Place Rabelais, en sous-sol, dans un local de 450m² ! \nSon organisation a été pensée par les différentes parties-prenantes du projet, afin d accueillir les diverses activités hébergées par le lieu : récupération, réparation, réemploi, upcycling, magasin de seconde main…"
+}

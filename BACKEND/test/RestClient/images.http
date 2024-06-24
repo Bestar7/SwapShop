@@ -1,0 +1,25 @@
+@port = 4000
+@url = http://localhost:{{port}}/api/images
+
+# GET ONE
+GET {{url}}/download/1
+
+# GET ALL
+GET {{url}}
+
+#_____CREATE
+### Create One
+POST {{url}}
+Content-Type: application/json
+
+{
+    "id": 1,
+    "name": "name",
+    "description": "description",
+    "condition": "condition",
+    "info": "info",
+    "category": "category",
+    "tags": ["tags"],
+    "price": 42,
+    "quantity": 20
+}

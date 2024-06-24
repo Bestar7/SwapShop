@@ -1,0 +1,17 @@
+@import "@vueform/multiselect/themes/default.scss";
+// TODO try and delete this file + line in global.scss
+.multiselect-tags-search:focus {
+  box-shadow: none;
+}
+
+:root {
+  --ms-spinner-color: theme(colors.swapShop.600);
+  --ms-tag-bg: theme(colors.swapShop.600);
+  --ms-option-bg-selected: theme(colors.swapShop.600);
+  --ms-ring-width: 2px;
+  --ms-ring-color: theme(colors.swapShop.600);
+
+  --ms-font-size: 0.9rem;
+  --ms-line-height: 1.375;
+  --ms-radius: 0.375rem;
+}

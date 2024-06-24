@@ -1,0 +1,5 @@
+@port = 4000
+@url = http://localhost:{{port}}/api/materials
+
+### GET ALL
+GET {{url}}

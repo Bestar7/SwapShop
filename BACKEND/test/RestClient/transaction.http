@@ -1,0 +1,22 @@
+@port = 4000
+@url = http://localhost:{{port}}/api/transactions
+
+
+POST {{url}}
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NDEsImlhdCI6MTcxNDc2NDg5NCwiZXhwIjoxNzE0NzY1MDE0fQ.k0HxtpLZjvic9F7ULQTyd_65bncGWrs_gdFhUMzOMVE
+
+{
+  "type": "withdrawal",
+  "user": {
+    "id": 43
+  },
+  "requestedArticles": [
+    {
+      "article": {
+        "id": 1
+      },
+      "quantity": 1
+    }
+  ]
+}

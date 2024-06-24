@@ -1,0 +1,43 @@
+@port = 4000
+@url = http://localhost:{{port}}/api/users
+
+### GET ONE
+GET {{url}}/test
+
+### GET ONE
+GET {{url}}/7
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjcsImlhdCI6MTcxMjY3NDE3NiwiZXhwIjoxNzEyNjc0Mjk2fQ.k6EYW8ehcx-hSFV_6XyA0S9IynS77agSNCKgt170Ikc
+
+### GET ALL
+GET {{url}}
+
+### GET ALL
+GET {{url}}/summary
+
+### REGISTER
+POST {{url}}
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjcsImlhdCI6MTcxMjY3NDc2OCwiZXhwIjoxNzEyNjc0ODg4fQ.I87t0XeCUONrQBBbWVPo0cahzDhNJCAFMzMerdBjvqY
+
+{
+    "email":"email2",
+    "password":"ok",
+    "firstName":"firstNames",
+    "lastName":"lastNamse",
+    "wallet":30000,
+    "role":"Usersos"
+}
+
+### ME
+GET {{url}}/me
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjcsImlhdCI6MTcxMjg1MzczMiwiZXhwIjoxNzEyODUzODUyfQ.98M-MSreAwi3DEqAThK5PfvrLm8epfvOGIO0cbCTBqA
+
+### LOGIN
+POST {{url}}/connect
+Content-Type: application/json
+
+{
+    "email":"bonocaz@example.com",
+    "password":"bonocaz"
+}
+

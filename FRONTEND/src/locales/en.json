@@ -1,0 +1,107 @@
+{
+  "LANG" : "EN",
+  "HOME" : {
+    "goToCatalog": "Explore the catalog"
+  },
+  "NAVBAR": {
+    "RegisterNewUser": "Register new user"
+  },
+  "CATALOG" : {
+    "listArticles": "Articles list",
+    "noItem": "No article found"
+  },
+  "CHECKOUT": {
+    "title": "Checkout",
+    "recipient":"Recipient",
+    "qty": "Quantity",
+    "weight": "Weight",
+    "dimension": "Dimension",
+    "subtotal": "Subtotal",
+    "totalPrice": "Total Price",
+    "confirm": "Confirm"
+  },
+  "USER_VIEW" : {
+    "dashboard": "Dashboard",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "phone": "Phone number",
+    "address": "Address",
+    "wallet": "Wallet"
+  },
+  "LOGIN": {
+    "login": "Login"
+  },
+  "REGISTER": {
+    "register": "Register"
+  },
+  "SUBMIT_ARTICLE": {
+    "submitItem": "Submit item"
+  },
+  "utils": {
+    "save":"Save",
+    "cancel":"Cancel",
+    "confirm":"Confirm",
+    "login":"Connection",
+    "logout":"Logout",
+    "register":"Register",
+    "show":"Show",
+    "hide":"Hide"
+  },
+  "component" : {
+    "ARTICLE":{
+      "picture": "Picture",
+      "category": "Category",
+      "name": "Name",
+      "weight": "Weight",
+      "quantity": "Quantity",
+      "condition":"Condition",
+      "dimension": "Dimension",
+      "tags":"Tags",
+      "description":"Description",
+      "suggestedPricePerArticle": "Price per article [suggested]",
+      "optional_f": "optional",
+      "optional_m": "optional"
+    },
+    "ARTICLE_FULL_VIEW" : {
+      "qty": "Quantity",
+      "category": "Category",
+      "description": "Description",
+      "condition": "Condition",
+      "tags": "Tags",
+      "update": "Modify"
+    },
+    "ARTICLE_INFO_PREVIEW" : {
+      "stock":"in stock"
+    },
+    "SUBMIT_ARTICLE" : {
+      "submit": "Submit Article"
+    },
+    "FILTER_TAG": {
+      "filterByTag": "Filter by tag"
+    },
+    "FORM_ARTICLE" : {
+      "contributor": "Contributor"
+    },
+    "LOGIN": {
+      "email":"Email",
+      "password":"Password",
+      "cancel":"Cancel",
+      "login":"Login"
+    },
+    "NAVBAR" : {
+      "swapShops": "Swap Shops"
+    },
+    "REGISTER" : {
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "phone": "Phone number",
+      "password": "Password",
+      "address": "Address",
+      "wallet": "Starting balance",
+      "submit": "Register",
+      "cancel": "Cancel"
+    }
+  }
+}

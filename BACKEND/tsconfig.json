@@ -1,0 +1,41 @@
+{
+  //"include": ["src/**/*.ts"], // not there initially
+
+  "compilerOptions": {
+    "target": "ES2021",
+    "useDefineForClassFields": true,
+    "removeComments": true,
+    "module": "commonjs",
+    "types": ["@types/jest"],
+    "skipLibCheck": true,
+    "paths": { // define an alias for the IDE AND nest
+      "~/*": ["./src/*"],
+    },
+
+
+    
+
+
+    "isolatedModules": true, // not there, initially
+
+
+
+
+    
+    "noUnusedLocals": true,
+    "noUnusedParameters": false,
+    "noFallthroughCasesInSwitch": true,
+
+    //"forceConsistentCasingInFileNames": false, // was there at first
+    "declaration": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "incremental": true,
+  }
+}

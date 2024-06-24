@@ -1,0 +1,107 @@
+{
+  "LANG" : "FR",
+  "HOME" : {
+    "goToCatalog": "Explorer le catalogue"
+  },
+  "NAVBAR": {
+    "RegisterNewUser": "Enregitrer nouvelle utilisateur"
+  },
+  "CATALOG" : {
+    "listArticles": "Liste des articles",
+    "noItem": "Aucun article trouvé"
+  },
+  "CHECKOUT": {
+    "title": "Panier",
+    "recipient":"Destinataire",
+    "qty": "Quantité",
+    "weight": "Poids",
+    "dimension": "Dimension",
+    "subtotal": "Sous-total",
+    "totalPrice": "Total",
+    "confirm": "Confirmer"
+  },
+  "USER_VIEW" : {
+    "dashboard": "Tableau de Bord",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Email",
+    "phone": "Numéro de téléphone",
+    "address": "Adresse",
+    "wallet": "Portefeuille"
+  },
+  "LOGIN": {
+    "login": "Connexion"
+  },
+  "REGISTER": {
+    "register": "Inscription"
+  },
+  "SUBMIT_ARTICLE": {
+    "submitItem": "Proposer un article"
+  },
+  "utils": {
+    "save":"Sauvegarder",
+    "cancel":"Annuler",
+    "confirm":"Confirmer",
+    "login":"Connexion",
+    "logout":"Se déconnecter",
+    "register":"Inscription",
+    "show":"Montrer",
+    "hide":"Cacher"
+  },
+  "component" : {
+    "ARTICLE":{
+      "picture": "Photos",
+      "category": "Catégorie",
+      "name": "Nom",
+      "weight": "Poids",
+      "quantity": "Nombre de pièces",
+      "condition":"État",
+      "dimension": "Dimension",
+      "tags":"Tags",
+      "description":"Description",
+      "suggestedPricePerArticle": "Prix par article [suggéré]",
+      "optional_f": "optionnelle",
+      "optional_m": "optionnel"
+    },
+    "ARTICLE_FULL_VIEW" : {
+      "qty": "Quantité",
+      "category": "Catégorie",
+      "description": "Description",
+      "condition": "État",
+      "tags": "Tags",
+      "update": "Modifier"
+    },
+    "ARTICLE_INFO_PREVIEW" : {
+      "stock":"en stock"
+    },
+    "SUBMIT_ARTICLE" : {
+      "submit": "Proposer un matériau"
+    },
+    "FILTER_TAG": {
+      "filterByTag": "Filtrer par tag"
+    },
+    "FORM_ARTICLE" : {
+      "contributor": "Donateur"
+    },
+    "LOGIN": {
+      "email":"Email",
+      "password":"Mot de passe",
+      "cancel":"Annuler",
+      "login": "Connexion"
+    },
+    "NAVBAR" : {
+      "swapShops": "Récupérathèques"
+    },
+    "REGISTER" : {
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "Email",
+      "phone": "Numéro de téléphone",
+      "password": "Mot de passe",
+      "address": "Adresse",
+      "wallet": "Solde de départ",
+      "submit": "Inscrire",
+      "cancel": "Annuler"
+    }
+  }
+}

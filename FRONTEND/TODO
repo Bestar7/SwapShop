@@ -1,0 +1,12 @@
+// TODO try move dotenv to DevDependencies
+// TODO window.navigator.language / languages -> user language, use this for default language
+// TODO homePage : ajouter le petit encadré (ex in-limbo)
+// TODO homePage : ajouter (redondant) btn 'faire un don' (pas '+')
+// TODO check worker https://developer.mozilla.org/fr/docs/Web/API/Web_Workers_API/Using_web_workers
+// TODO put user config in .env.json && advanced config in .env
+// TODO to modify a client config with the front, maybe put the config file in the back (back read-write),
+// and the back sends it to front during first request
+// TODO check PWA is foreground/background https://goulet.dev/posts/detect-pwa-visibility/
+// TODO one website per swapShop : nestedRoute
+// TODO add/remove swapShop from frontend : dynamic routes (routes.add)
+// TODO add lostPassword link + reinit password
