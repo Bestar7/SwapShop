@@ -35,7 +35,7 @@ you might want to populate the database when using it for the very first time us
 
 # tests
 
-##setup de database
+## setup de database
 create another database only for the test and make sure the name correspond to the .env file
 
 ## populate the database
