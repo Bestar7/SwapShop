@@ -9,7 +9,7 @@ Npm 10.2.4 or above (should be included with Node).
 Postgres 16 or above, ideally (https://www.postgresql.org/).
 
 ## Recommended
-VSCode as it offers many extension to simplify use and developpement.
+ - VSCode as it offers many extension to simplify use and developpement.
 
 ## create the configuration files
 There should be exemple.env that should be used as an exemple, or a .env directly.
