@@ -1,9 +1,6 @@
 # What is this ?
 This is a frontend (client) and a backend (api) for a SwapShop (Recupérathèque in french) : a place to facilitate reusing materials and objects.
 
-# How to use it as a SwapShop owner
-Instructions regarding using it
-
 # Installation
 
 ## Required environment
